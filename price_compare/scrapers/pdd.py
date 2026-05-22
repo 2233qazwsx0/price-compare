@@ -31,7 +31,6 @@ _PRODUCT_TEMPLATES = {
     "洗衣机": ["{brand} {model}洗衣机 百亿补贴", "{brand} {model}全自动", "{brand} {model}洗烘一体"],
     "空调": ["{brand} {model}空调 百亿补贴", "{brand} {model}变频空调", "{brand} {model}节能空调"],
     "冰箱": ["{brand} {model}冰箱 百亿补贴", "{brand} {model}对开门", "{brand} {model}智能冰箱"],
-    "默认": ["{brand} {model} 百亿补贴", "{brand} {model}超值好物", "{brand} {model}拼团价"],
 }
 
 
@@ -43,11 +42,16 @@ class PDDScraper(BaseScraper):
         random.seed(hashlib.md5(f"pdd_{keyword}".encode()).hexdigest())
         products = []
         category = self._detect_category(keyword)
+        has_category = category is not None and category in _PRODUCT_TEMPLATES
         for i in range(min(max_items, random.randint(8, 20))):
             brand = random.choice(_BRANDS_PDD)
-            model = random.choice(_MODEL_NAMES_PDD)
-            template = random.choice(_PRODUCT_TEMPLATES.get(category, _PRODUCT_TEMPLATES["默认"]))
-            name = template.format(brand=brand, model=model) + f" {keyword}"
+            if has_category:
+                model = random.choice(_MODEL_NAMES_PDD)
+                template = random.choice(_PRODUCT_TEMPLATES[category])
+                name = template.format(brand=brand, model=model)
+            else:
+                suffixes = ["高性能版", "标准版", "旗舰版", "入门版", "增强版", "专业版", "经典版", "升级版"]
+                name = f"{brand} {random.choice(suffixes)} {keyword}"
 
             base_price = self._get_base_price(category)
             price = round(base_price * random.uniform(0.5, 1.15), 2)
@@ -83,7 +87,7 @@ class PDDScraper(BaseScraper):
             return p
         raise ValueError(f"Product {product_id} not found")
 
-    def _detect_category(self, keyword: str) -> str:
+    def _detect_category(self, keyword: str) -> Optional[str]:
         category_map = {
             "手机": "手机", "iPhone": "手机", "华为": "手机", "小米": "手机",
             "笔记本": "笔记本", "电脑": "笔记本",
@@ -94,12 +98,15 @@ class PDDScraper(BaseScraper):
         for k, v in category_map.items():
             if k in keyword:
                 return v
-        return "默认"
+        return None
 
-    def _get_base_price(self, category: str) -> float:
+    def _get_base_price(self, category: Optional[str]) -> float:
         price_map = {
             "手机": 2500, "笔记本": 4000, "耳机": 200,
             "平板": 2000, "电视": 2500, "洗衣机": 1500,
-            "空调": 2000, "冰箱": 2000, "默认": 350,
+            "空调": 2000, "冰箱": 2000,
         }
-        return price_map.get(category, 350)
+        if category and category in price_map:
+            return price_map[category]
+        # 通用价格区间
+        return random.randint(100, 2000)
