@@ -98,6 +98,14 @@ tbody td{padding:12px 16px;font-size:13px;vertical-align:middle}
 .value-high{background:rgba(0,184,148,.15);color:var(--green)}
 .value-mid{background:rgba(253,203,110,.15);color:var(--yellow)}
 .value-low{background:rgba(228,57,60,.1);color:var(--text2)}
+.buy-btn{display:inline-flex;align-items:center;gap:4px;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;transition:all .2s;white-space:nowrap}
+.buy-btn:hover{opacity:.85;transform:translateY(-1px)}
+.buy-btn:active{transform:translateY(0)}
+.buy-btn-jd{background:var(--jd);color:#fff}
+.buy-btn-tb{background:var(--tb);color:#fff}
+.buy-btn-pdd{background:var(--pdd);color:#fff}
+.rec-card .buy-btn{margin-top:10px}
+.td-buy{white-space:nowrap}
 
 .loading{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:60px 20px;gap:16px}
 .spinner{width:40px;height:40px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite}
@@ -195,7 +203,7 @@ footer{text-align:center;padding:24px;color:var(--text2);font-size:12px;border-t
               <th>销量</th>
               <th>店铺评分</th>
               <th>性价比</th>
-              <th>标签</th>
+              <th>购买</th>
             </tr>
           </thead>
           <tbody id="productTableBody"></tbody>
@@ -272,6 +280,7 @@ function renderRecommendations(recs){
           <span>📦 ${formatSales(d.sales)}</span>
           ${d.discount?`<span style="color:var(--jd)">${d.discount}</span>`:''}
         </div>
+        <a class="buy-btn buy-btn-${PLATFORM_MAP[d.platform]||''}" href="${d.url}" target="_blank">🛒 去${d.platform}购买</a>
       </div>
     `);
   });
@@ -284,6 +293,7 @@ function renderTable(comparison){
   document.getElementById('tableCount').textContent = `共 ${items.length} 件商品`;
   tbody.innerHTML = items.map((item,i)=>{
     const vs = item.scores?.value_score||0;
+    const pKey = PLATFORM_MAP[item.platform]||'';
     return `<tr>
       <td>${i+1}</td>
       <td class="td-name" title="${item.name}"><a href="${item.url}" target="_blank">${item.name}</a></td>
@@ -294,8 +304,7 @@ function renderTable(comparison){
       <td class="td-sales">${formatSales(item.sales)}</td>
       <td class="td-rating"><span class="rating-stars">★</span>${item.store_rating}</td>
       <td><span class="value-badge ${getValueClass(vs)}">${vs.toFixed(0)}分</span></td>
-      <td class="td-tags">${(item.tags||[]).map(t=>`<span class="mini-tag">${t}</span>`).join('')}</td>
-    </tr>`;
+      <td class="td-buy"><a class="buy-btn buy-btn-${pKey}" href="${item.url}" target="_blank">🛒 去购买</a></td></tr>`;
   }).join('');
 }
 
