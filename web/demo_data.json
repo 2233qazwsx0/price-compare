@@ -1,0 +1,2605 @@
+{
+  "keyword": "手机",
+  "raw_count": 40,
+  "cleaned_count": 40,
+  "products": [
+    {
+      "name": "宏碁 特惠版超值手机 手机",
+      "price": 1259.34,
+      "sales": 219488,
+      "store_name": "宏碁品牌特卖店",
+      "store_rating": 4.9,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=ed2d8bc809",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "6d9c7121",
+      "image_url": "",
+      "original_price": 1830.99,
+      "discount": "-31%",
+      "tags": [
+        "假一赔十",
+        "百亿补贴"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.788,
+      "price_per_sale": 1259.34
+    },
+    {
+      "name": "雷神 Plus正品手机 手机",
+      "price": 1281.66,
+      "sales": 288979,
+      "store_name": "雷神官方直营店",
+      "store_rating": 4.5,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=5a73d5212b",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "18c7cc01",
+      "image_url": "",
+      "original_price": 1618.72,
+      "discount": "-21%",
+      "tags": [
+        "百亿补贴"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.732,
+      "price_per_sale": 1281.66
+    },
+    {
+      "name": "荣耀 Pro超值手机 手机",
+      "price": 1376.6,
+      "sales": 12153,
+      "store_name": "荣耀百亿补贴专区",
+      "store_rating": 4.0,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=bd428e50ae",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "05ded0d0",
+      "image_url": "",
+      "original_price": 1974.76,
+      "discount": "-30%",
+      "tags": [
+        "限时秒杀",
+        "拼团价",
+        "万人团"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.731,
+      "price_per_sale": 1376.6
+    },
+    {
+      "name": "realme 尊享版正品手机 手机",
+      "price": 1389.54,
+      "sales": 488066,
+      "store_name": "realme品牌特卖店",
+      "store_rating": 4.3,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=62dffcc011",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "8d8999a0",
+      "image_url": "",
+      "original_price": 1618.87,
+      "discount": "-14%",
+      "tags": [
+        "拼团价"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.7,
+      "price_per_sale": 1389.54
+    },
+    {
+      "name": "惠普 Mate正品手机 手机",
+      "price": 1453.5,
+      "sales": 42578,
+      "store_name": "惠普品牌授权店",
+      "store_rating": 4.5,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=d18d050a5d",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "dc4671f4",
+      "image_url": "",
+      "original_price": 1758.45,
+      "discount": "-17%",
+      "tags": [
+        "拼团价"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.722,
+      "price_per_sale": 1453.5
+    },
+    {
+      "name": "小米 青春版 5G手机 百亿补贴 手机",
+      "price": 1499.55,
+      "sales": 111040,
+      "store_name": "小米工厂直供店",
+      "store_rating": 4.6,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=750eaeac67",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "3f4c9dc6",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "品牌特卖",
+        "限时秒杀"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.676,
+      "price_per_sale": 1499.55
+    },
+    {
+      "name": "宏碁 Ultra正品手机 手机",
+      "price": 1856.04,
+      "sales": 242182,
+      "store_name": "宏碁官方直营店",
+      "store_rating": 4.7,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=644421443d",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "fadf494b",
+      "image_url": "",
+      "original_price": 2887.27,
+      "discount": "-36%",
+      "tags": [
+        "拼团价",
+        "百亿补贴",
+        "限时秒杀"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.789,
+      "price_per_sale": 1856.04
+    },
+    {
+      "name": "华为 Mate超长续航 手机",
+      "price": 1856.18,
+      "sales": 248547,
+      "store_name": "华为天猫直营店",
+      "store_rating": 4.9,
+      "url": "https://item.taobao.com/item.htm?id=f96c20de5902",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "70a3c80d",
+      "image_url": "",
+      "original_price": 2513.29,
+      "discount": "-26%",
+      "tags": [
+        "88VIP价",
+        "限时折扣"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.772,
+      "price_per_sale": 1856.18
+    },
+    {
+      "name": "vivo Pro超值手机 手机",
+      "price": 1952.1,
+      "sales": 19886,
+      "store_name": "vivo品牌授权店",
+      "store_rating": 4.4,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=30a80922f7",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "734fcb92",
+      "image_url": "",
+      "original_price": 2786.95,
+      "discount": "-30%",
+      "tags": [
+        "品牌特卖",
+        "拼团价",
+        "百亿补贴"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.754,
+      "price_per_sale": 1952.1
+    },
+    {
+      "name": "机械革命 X1 5G手机 百亿补贴 手机",
+      "price": 1956.2,
+      "sales": 429903,
+      "store_name": "机械革命品牌优选店",
+      "store_rating": 4.8,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=411e0e92e2",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "ebaf6940",
+      "image_url": "",
+      "original_price": 2348.81,
+      "discount": "-17%",
+      "tags": [
+        "品牌特卖",
+        "全网最低"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.738,
+      "price_per_sale": 1956.2
+    },
+    {
+      "name": "宏碁 Mate拍照旗舰 手机",
+      "price": 1985.38,
+      "sales": 58902,
+      "store_name": "宏碁品牌体验店",
+      "store_rating": 4.4,
+      "url": "https://item.taobao.com/item.htm?id=90d415ce6161",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "a5c32316",
+      "image_url": "",
+      "original_price": 2353.61,
+      "discount": "-16%",
+      "tags": [
+        "限时折扣"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.711,
+      "price_per_sale": 1985.38
+    },
+    {
+      "name": "戴尔 Max 5G手机 百亿补贴 手机",
+      "price": 2031.45,
+      "sales": 117573,
+      "store_name": "戴尔工厂直供店",
+      "store_rating": 4.5,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=6a976dad4f",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "e351a138",
+      "image_url": "",
+      "original_price": 2373.14,
+      "discount": "-14%",
+      "tags": [
+        "万人团"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.713,
+      "price_per_sale": 2031.45
+    },
+    {
+      "name": "神舟 Book 5G全网通手机 手机",
+      "price": 2262.61,
+      "sales": 286445,
+      "store_name": "神舟官方授权店",
+      "store_rating": 4.3,
+      "url": "https://item.taobao.com/item.htm?id=aabd005bd485",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "93f8c79d",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "热销爆款"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.658,
+      "price_per_sale": 2262.61
+    },
+    {
+      "name": "小米 Galaxy超长续航 手机",
+      "price": 2269.61,
+      "sales": 62745,
+      "store_name": "小米品牌体验店",
+      "store_rating": 4.2,
+      "url": "https://item.taobao.com/item.htm?id=3db228f3df5c",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "03a97e6b",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "跨店满减",
+        "聚划算"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.652,
+      "price_per_sale": 2269.61
+    },
+    {
+      "name": "魅族 15 5G全网通手机 手机",
+      "price": 2286.25,
+      "sales": 259696,
+      "store_name": "魅族官方授权店",
+      "store_rating": 4.2,
+      "url": "https://item.taobao.com/item.htm?id=4df5322ecb66",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "60965f04",
+      "image_url": "",
+      "original_price": 3052.78,
+      "discount": "-25%",
+      "tags": [
+        "品牌特卖"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.727,
+      "price_per_sale": 2286.25
+    },
+    {
+      "name": "机械革命 Plus拍照旗舰 手机",
+      "price": 2345.63,
+      "sales": 295165,
+      "store_name": "机械革命品牌旗舰店",
+      "store_rating": 4.8,
+      "url": "https://item.taobao.com/item.htm?id=acaeeb4d2490",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "3393dc53",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "限时折扣",
+        "天猫好物"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.688,
+      "price_per_sale": 2345.63
+    },
+    {
+      "name": "机械革命 S8正品手机 手机",
+      "price": 2373.58,
+      "sales": 481153,
+      "store_name": "机械革命品牌授权店",
+      "store_rating": 4.7,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=b8f7745ed6",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "5c1ef643",
+      "image_url": "",
+      "original_price": 2816.35,
+      "discount": "-16%",
+      "tags": [
+        "万人团",
+        "全网最低",
+        "百亿补贴"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.729,
+      "price_per_sale": 2373.58
+    },
+    {
+      "name": "荣耀 Air超长续航 手机",
+      "price": 2424.11,
+      "sales": 243485,
+      "store_name": "荣耀品牌专卖店",
+      "store_rating": 4.6,
+      "url": "https://item.taobao.com/item.htm?id=2c139589971d",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "5d02b765",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "限时折扣",
+        "88VIP价"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.676,
+      "price_per_sale": 2424.11
+    },
+    {
+      "name": "微星 S8超长续航 手机",
+      "price": 2451.93,
+      "sales": 189367,
+      "store_name": "微星品牌直营店",
+      "store_rating": 4.9,
+      "url": "https://item.taobao.com/item.htm?id=6cbbfc3f9c54",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "136686d5",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "新品上市",
+        "跨店满减"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.694,
+      "price_per_sale": 2451.93
+    },
+    {
+      "name": "外星人 Ultra 5G智能手机 手机",
+      "price": 2474.32,
+      "sales": 129369,
+      "store_name": "外星人京东数码专营店",
+      "store_rating": 4.3,
+      "url": "https://item.jd.com/35a19bb758.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "a43c0055",
+      "image_url": "",
+      "original_price": 3395.88,
+      "discount": "-27%",
+      "tags": [
+        "PLUS会员价",
+        "限时秒杀",
+        "爆款"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.739,
+      "price_per_sale": 2474.32
+    },
+    {
+      "name": "微软 T9 5G智能手机 手机",
+      "price": 2500.02,
+      "sales": 89640,
+      "store_name": "微软京东自营旗舰店",
+      "store_rating": 5.0,
+      "url": "https://item.jd.com/010d19b2e8.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "b3131d8b",
+      "image_url": "",
+      "original_price": 2882.38,
+      "discount": "-13%",
+      "tags": [
+        "京东自营",
+        "新品首发",
+        "PLUS会员价"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.74,
+      "price_per_sale": 2500.02
+    },
+    {
+      "name": "华为 Nova拍照旗舰 手机",
+      "price": 2561.3,
+      "sales": 115583,
+      "store_name": "华为官方授权店",
+      "store_rating": 4.3,
+      "url": "https://item.taobao.com/item.htm?id=8548d3f31bf3",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "40d9fa9b",
+      "image_url": "",
+      "original_price": 3484.34,
+      "discount": "-26%",
+      "tags": [
+        "聚划算"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.737,
+      "price_per_sale": 2561.3
+    },
+    {
+      "name": "魅族 SE超长续航 手机",
+      "price": 2622.58,
+      "sales": 59948,
+      "store_name": "魅族天猫旗舰店",
+      "store_rating": 4.5,
+      "url": "https://item.taobao.com/item.htm?id=fed496255893",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "e55e1599",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "新品上市",
+        "天猫好物"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.67,
+      "price_per_sale": 2622.58
+    },
+    {
+      "name": "荣耀 Nova 5G全网通手机 手机",
+      "price": 2679.42,
+      "sales": 24468,
+      "store_name": "荣耀官方旗舰店",
+      "store_rating": 4.3,
+      "url": "https://item.taobao.com/item.htm?id=9ca201469f12",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "9417ba79",
+      "image_url": "",
+      "original_price": 3791.01,
+      "discount": "-29%",
+      "tags": [
+        "限时折扣"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.746,
+      "price_per_sale": 2679.42
+    },
+    {
+      "name": "机械革命 尊享版超值手机 手机",
+      "price": 2710.53,
+      "sales": 386364,
+      "store_name": "机械革命官方旗舰店",
+      "store_rating": 4.0,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=c91135eea9",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "2f419d67",
+      "image_url": "",
+      "original_price": 3176.37,
+      "discount": "-15%",
+      "tags": [
+        "拼团价"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.684,
+      "price_per_sale": 2710.53
+    },
+    {
+      "name": "ThinkPad Z7 5G智能手机 手机",
+      "price": 2732.62,
+      "sales": 26483,
+      "store_name": "ThinkPad京东超市自营店",
+      "store_rating": 4.3,
+      "url": "https://item.jd.com/d456bd28fd.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "3b496c60",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "爆款",
+        "品牌直供",
+        "满减优惠"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.658,
+      "price_per_sale": 2732.62
+    },
+    {
+      "name": "OPPO Mate超值手机 手机",
+      "price": 2791.06,
+      "sales": 306383,
+      "store_name": "OPPO品牌优选店",
+      "store_rating": 4.5,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=3c40f2ba85",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "958121a4",
+      "image_url": "",
+      "original_price": 3645.42,
+      "discount": "-23%",
+      "tags": [
+        "百亿补贴"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.74,
+      "price_per_sale": 2791.06
+    },
+    {
+      "name": "一加 特惠版 5G手机 百亿补贴 手机",
+      "price": 2812.44,
+      "sales": 454634,
+      "store_name": "一加品牌授权店",
+      "store_rating": 4.6,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=dda0a0213e",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "8535a0a7",
+      "image_url": "",
+      "original_price": 3320.14,
+      "discount": "-15%",
+      "tags": [
+        "全网最低",
+        "正品险"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.722,
+      "price_per_sale": 2812.44
+    },
+    {
+      "name": "宏碁 百亿补贴版正品手机 手机",
+      "price": 2863.46,
+      "sales": 186406,
+      "store_name": "宏碁品牌官方旗舰店",
+      "store_rating": 4.7,
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=fbb4d0bbbf",
+      "platform": "拼多多",
+      "keyword": "手机",
+      "product_id": "7b94e02f",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "万人团",
+        "假一赔十"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.682,
+      "price_per_sale": 2863.46
+    },
+    {
+      "name": "戴尔 Reno拍照旗舰 手机",
+      "price": 2941.37,
+      "sales": 33770,
+      "store_name": "戴尔官方授权店",
+      "store_rating": 5.0,
+      "url": "https://item.taobao.com/item.htm?id=6d4d8b2b4335",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "4e496825",
+      "image_url": "",
+      "original_price": 3473.15,
+      "discount": "-15%",
+      "tags": [
+        "跨店满减"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.746,
+      "price_per_sale": 2941.37
+    },
+    {
+      "name": "联想 15旗舰手机 手机",
+      "price": 3084.81,
+      "sales": 38882,
+      "store_name": "联想品牌官方旗舰店",
+      "store_rating": 4.2,
+      "url": "https://item.jd.com/bc97ce1148.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "9dbb429f",
+      "image_url": "",
+      "original_price": 3901.63,
+      "discount": "-21%",
+      "tags": [
+        "限时秒杀"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.715,
+      "price_per_sale": 3084.81
+    },
+    {
+      "name": "华为 S8拍照旗舰 手机",
+      "price": 3115.67,
+      "sales": 141906,
+      "store_name": "华为品牌旗舰店",
+      "store_rating": 4.2,
+      "url": "https://item.taobao.com/item.htm?id=c1aea4d36603",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "c1f40799",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "限时折扣",
+        "天猫好物"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.652,
+      "price_per_sale": 3115.67
+    },
+    {
+      "name": "惠普 Reno旗舰手机 手机",
+      "price": 3200.42,
+      "sales": 146091,
+      "store_name": "惠普京东国际自营店",
+      "store_rating": 4.3,
+      "url": "https://item.jd.com/2081b51d05.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "202aecd7",
+      "image_url": "",
+      "original_price": 3373.03,
+      "discount": "-5%",
+      "tags": [
+        "新品首发"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.673,
+      "price_per_sale": 3200.42
+    },
+    {
+      "name": "联想 V3超清拍照手机 手机",
+      "price": 3233.61,
+      "sales": 196161,
+      "store_name": "联想京东国际自营店",
+      "store_rating": 4.6,
+      "url": "https://item.jd.com/481059d618.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "c80ca7fb",
+      "image_url": "",
+      "original_price": 4490.16,
+      "discount": "-28%",
+      "tags": [
+        "限时秒杀",
+        "爆款"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.76,
+      "price_per_sale": 3233.61
+    },
+    {
+      "name": "微软 V3旗舰手机 手机",
+      "price": 3249.45,
+      "sales": 158547,
+      "store_name": "微软京东家电旗舰店",
+      "store_rating": 4.7,
+      "url": "https://item.jd.com/3fa9e5a0f0.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "cbfbca51",
+      "image_url": "",
+      "original_price": 3483.74,
+      "discount": "-7%",
+      "tags": [
+        "新品首发",
+        "满减优惠"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.702,
+      "price_per_sale": 3249.45
+    },
+    {
+      "name": "vivo V3 5G全网通手机 手机",
+      "price": 3261.27,
+      "sales": 5948,
+      "store_name": "vivo品牌体验店",
+      "store_rating": 4.4,
+      "url": "https://item.taobao.com/item.htm?id=82dfc4700d58",
+      "platform": "淘宝",
+      "keyword": "手机",
+      "product_id": "925e0b15",
+      "image_url": "",
+      "original_price": null,
+      "discount": null,
+      "tags": [
+        "限时折扣",
+        "新品上市",
+        "跨店满减"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.502,
+      "price_per_sale": 3261.27
+    },
+    {
+      "name": "机械革命 16旗舰手机 手机",
+      "price": 3314.19,
+      "sales": 68054,
+      "store_name": "机械革命品牌授权专卖店",
+      "store_rating": 4.8,
+      "url": "https://item.jd.com/6fc00fd829.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "30d65ee8",
+      "image_url": "",
+      "original_price": 4435.04,
+      "discount": "-25%",
+      "tags": [
+        "品牌直供",
+        "新品首发"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.764,
+      "price_per_sale": 3314.19
+    },
+    {
+      "name": "联想 SE超清拍照手机 手机",
+      "price": 3594.13,
+      "sales": 82320,
+      "store_name": "联想品牌旗舰店",
+      "store_rating": 5.0,
+      "url": "https://item.jd.com/f7721c0afe.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "5295bf22",
+      "image_url": "",
+      "original_price": 4275.46,
+      "discount": "-16%",
+      "tags": [
+        "爆款",
+        "新品首发"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.748,
+      "price_per_sale": 3594.13
+    },
+    {
+      "name": "OPPO Mate 5G智能手机 手机",
+      "price": 3611.72,
+      "sales": 151439,
+      "store_name": "OPPO品牌旗舰店",
+      "store_rating": 4.5,
+      "url": "https://item.jd.com/63b18a126b.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "740e559c",
+      "image_url": "",
+      "original_price": 4563.2,
+      "discount": "-21%",
+      "tags": [
+        "京东自营"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.733,
+      "price_per_sale": 3611.72
+    },
+    {
+      "name": "雷神 16 5G智能手机 手机",
+      "price": 3657.81,
+      "sales": 26620,
+      "store_name": "雷神品牌官方旗舰店",
+      "store_rating": 4.8,
+      "url": "https://item.jd.com/4eb1a87c64.html",
+      "platform": "京东",
+      "keyword": "手机",
+      "product_id": "1f4e45bd",
+      "image_url": "",
+      "original_price": 4810.21,
+      "discount": "-24%",
+      "tags": [
+        "品牌直供",
+        "PLUS会员价"
+      ],
+      "collected_at": "2026-05-21 14:48:44",
+      "value_score": 0.76,
+      "price_per_sale": 3657.81
+    }
+  ],
+  "comparison": {
+    "comparison": [
+      {
+        "product_id": "fadf494b",
+        "name": "宏碁 Ultra正品手机 手机",
+        "platform": "拼多多",
+        "price": 1856.04,
+        "original_price": 2887.27,
+        "discount": "-36%",
+        "sales": 242182,
+        "store_name": "宏碁官方直营店",
+        "store_rating": 4.7,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=644421443d",
+        "tags": [
+          "拼团价",
+          "百亿补贴",
+          "限时秒杀"
+        ],
+        "scores": {
+          "price_score": 75.1,
+          "rating_score": 94.0,
+          "sales_score": 49.6,
+          "value_score": 78.9
+        }
+      },
+      {
+        "product_id": "6d9c7121",
+        "name": "宏碁 特惠版超值手机 手机",
+        "platform": "拼多多",
+        "price": 1259.34,
+        "original_price": 1830.99,
+        "discount": "-31%",
+        "sales": 219488,
+        "store_name": "宏碁品牌特卖店",
+        "store_rating": 4.9,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=ed2d8bc809",
+        "tags": [
+          "假一赔十",
+          "百亿补贴"
+        ],
+        "scores": {
+          "price_score": 100.0,
+          "rating_score": 98.0,
+          "sales_score": 45.0,
+          "value_score": 78.8
+        }
+      },
+      {
+        "product_id": "70a3c80d",
+        "name": "华为 Mate超长续航 手机",
+        "platform": "淘宝",
+        "price": 1856.18,
+        "original_price": 2513.29,
+        "discount": "-26%",
+        "sales": 248547,
+        "store_name": "华为天猫直营店",
+        "store_rating": 4.9,
+        "url": "https://item.taobao.com/item.htm?id=f96c20de5902",
+        "tags": [
+          "88VIP价",
+          "限时折扣"
+        ],
+        "scores": {
+          "price_score": 75.1,
+          "rating_score": 98.0,
+          "sales_score": 50.9,
+          "value_score": 77.2
+        }
+      },
+      {
+        "product_id": "30d65ee8",
+        "name": "机械革命 16旗舰手机 手机",
+        "platform": "京东",
+        "price": 3314.19,
+        "original_price": 4435.04,
+        "discount": "-25%",
+        "sales": 68054,
+        "store_name": "机械革命品牌授权专卖店",
+        "store_rating": 4.8,
+        "url": "https://item.jd.com/6fc00fd829.html",
+        "tags": [
+          "品牌直供",
+          "新品首发"
+        ],
+        "scores": {
+          "price_score": 14.3,
+          "rating_score": 96.0,
+          "sales_score": 13.9,
+          "value_score": 76.4
+        }
+      },
+      {
+        "product_id": "c80ca7fb",
+        "name": "联想 V3超清拍照手机 手机",
+        "platform": "京东",
+        "price": 3233.61,
+        "original_price": 4490.16,
+        "discount": "-28%",
+        "sales": 196161,
+        "store_name": "联想京东国际自营店",
+        "store_rating": 4.6,
+        "url": "https://item.jd.com/481059d618.html",
+        "tags": [
+          "限时秒杀",
+          "爆款"
+        ],
+        "scores": {
+          "price_score": 17.7,
+          "rating_score": 92.0,
+          "sales_score": 40.2,
+          "value_score": 76.0
+        }
+      },
+      {
+        "product_id": "1f4e45bd",
+        "name": "雷神 16 5G智能手机 手机",
+        "platform": "京东",
+        "price": 3657.81,
+        "original_price": 4810.21,
+        "discount": "-24%",
+        "sales": 26620,
+        "store_name": "雷神品牌官方旗舰店",
+        "store_rating": 4.8,
+        "url": "https://item.jd.com/4eb1a87c64.html",
+        "tags": [
+          "品牌直供",
+          "PLUS会员价"
+        ],
+        "scores": {
+          "price_score": 0.0,
+          "rating_score": 96.0,
+          "sales_score": 5.5,
+          "value_score": 76.0
+        }
+      },
+      {
+        "product_id": "734fcb92",
+        "name": "vivo Pro超值手机 手机",
+        "platform": "拼多多",
+        "price": 1952.1,
+        "original_price": 2786.95,
+        "discount": "-30%",
+        "sales": 19886,
+        "store_name": "vivo品牌授权店",
+        "store_rating": 4.4,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=30a80922f7",
+        "tags": [
+          "品牌特卖",
+          "拼团价",
+          "百亿补贴"
+        ],
+        "scores": {
+          "price_score": 71.1,
+          "rating_score": 88.0,
+          "sales_score": 4.1,
+          "value_score": 75.4
+        }
+      },
+      {
+        "product_id": "5295bf22",
+        "name": "联想 SE超清拍照手机 手机",
+        "platform": "京东",
+        "price": 3594.13,
+        "original_price": 4275.46,
+        "discount": "-16%",
+        "sales": 82320,
+        "store_name": "联想品牌旗舰店",
+        "store_rating": 5.0,
+        "url": "https://item.jd.com/f7721c0afe.html",
+        "tags": [
+          "爆款",
+          "新品首发"
+        ],
+        "scores": {
+          "price_score": 2.7,
+          "rating_score": 100.0,
+          "sales_score": 16.9,
+          "value_score": 74.8
+        }
+      },
+      {
+        "product_id": "9417ba79",
+        "name": "荣耀 Nova 5G全网通手机 手机",
+        "platform": "淘宝",
+        "price": 2679.42,
+        "original_price": 3791.01,
+        "discount": "-29%",
+        "sales": 24468,
+        "store_name": "荣耀官方旗舰店",
+        "store_rating": 4.3,
+        "url": "https://item.taobao.com/item.htm?id=9ca201469f12",
+        "tags": [
+          "限时折扣"
+        ],
+        "scores": {
+          "price_score": 40.8,
+          "rating_score": 86.0,
+          "sales_score": 5.0,
+          "value_score": 74.6
+        }
+      },
+      {
+        "product_id": "4e496825",
+        "name": "戴尔 Reno拍照旗舰 手机",
+        "platform": "淘宝",
+        "price": 2941.37,
+        "original_price": 3473.15,
+        "discount": "-15%",
+        "sales": 33770,
+        "store_name": "戴尔官方授权店",
+        "store_rating": 5.0,
+        "url": "https://item.taobao.com/item.htm?id=6d4d8b2b4335",
+        "tags": [
+          "跨店满减"
+        ],
+        "scores": {
+          "price_score": 29.9,
+          "rating_score": 100.0,
+          "sales_score": 6.9,
+          "value_score": 74.6
+        }
+      },
+      {
+        "product_id": "b3131d8b",
+        "name": "微软 T9 5G智能手机 手机",
+        "platform": "京东",
+        "price": 2500.02,
+        "original_price": 2882.38,
+        "discount": "-13%",
+        "sales": 89640,
+        "store_name": "微软京东自营旗舰店",
+        "store_rating": 5.0,
+        "url": "https://item.jd.com/010d19b2e8.html",
+        "tags": [
+          "京东自营",
+          "新品首发",
+          "PLUS会员价"
+        ],
+        "scores": {
+          "price_score": 48.3,
+          "rating_score": 100.0,
+          "sales_score": 18.4,
+          "value_score": 74.0
+        }
+      },
+      {
+        "product_id": "958121a4",
+        "name": "OPPO Mate超值手机 手机",
+        "platform": "拼多多",
+        "price": 2791.06,
+        "original_price": 3645.42,
+        "discount": "-23%",
+        "sales": 306383,
+        "store_name": "OPPO品牌优选店",
+        "store_rating": 4.5,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=3c40f2ba85",
+        "tags": [
+          "百亿补贴"
+        ],
+        "scores": {
+          "price_score": 36.1,
+          "rating_score": 90.0,
+          "sales_score": 62.8,
+          "value_score": 74.0
+        }
+      },
+      {
+        "product_id": "a43c0055",
+        "name": "外星人 Ultra 5G智能手机 手机",
+        "platform": "京东",
+        "price": 2474.32,
+        "original_price": 3395.88,
+        "discount": "-27%",
+        "sales": 129369,
+        "store_name": "外星人京东数码专营店",
+        "store_rating": 4.3,
+        "url": "https://item.jd.com/35a19bb758.html",
+        "tags": [
+          "PLUS会员价",
+          "限时秒杀",
+          "爆款"
+        ],
+        "scores": {
+          "price_score": 49.3,
+          "rating_score": 86.0,
+          "sales_score": 26.5,
+          "value_score": 73.9
+        }
+      },
+      {
+        "product_id": "ebaf6940",
+        "name": "机械革命 X1 5G手机 百亿补贴 手机",
+        "platform": "拼多多",
+        "price": 1956.2,
+        "original_price": 2348.81,
+        "discount": "-17%",
+        "sales": 429903,
+        "store_name": "机械革命品牌优选店",
+        "store_rating": 4.8,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=411e0e92e2",
+        "tags": [
+          "品牌特卖",
+          "全网最低"
+        ],
+        "scores": {
+          "price_score": 70.9,
+          "rating_score": 96.0,
+          "sales_score": 88.1,
+          "value_score": 73.8
+        }
+      },
+      {
+        "product_id": "40d9fa9b",
+        "name": "华为 Nova拍照旗舰 手机",
+        "platform": "淘宝",
+        "price": 2561.3,
+        "original_price": 3484.34,
+        "discount": "-26%",
+        "sales": 115583,
+        "store_name": "华为官方授权店",
+        "store_rating": 4.3,
+        "url": "https://item.taobao.com/item.htm?id=8548d3f31bf3",
+        "tags": [
+          "聚划算"
+        ],
+        "scores": {
+          "price_score": 45.7,
+          "rating_score": 86.0,
+          "sales_score": 23.7,
+          "value_score": 73.7
+        }
+      },
+      {
+        "product_id": "740e559c",
+        "name": "OPPO Mate 5G智能手机 手机",
+        "platform": "京东",
+        "price": 3611.72,
+        "original_price": 4563.2,
+        "discount": "-21%",
+        "sales": 151439,
+        "store_name": "OPPO品牌旗舰店",
+        "store_rating": 4.5,
+        "url": "https://item.jd.com/63b18a126b.html",
+        "tags": [
+          "京东自营"
+        ],
+        "scores": {
+          "price_score": 1.9,
+          "rating_score": 90.0,
+          "sales_score": 31.0,
+          "value_score": 73.3
+        }
+      },
+      {
+        "product_id": "18c7cc01",
+        "name": "雷神 Plus正品手机 手机",
+        "platform": "拼多多",
+        "price": 1281.66,
+        "original_price": 1618.72,
+        "discount": "-21%",
+        "sales": 288979,
+        "store_name": "雷神官方直营店",
+        "store_rating": 4.5,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=5a73d5212b",
+        "tags": [
+          "百亿补贴"
+        ],
+        "scores": {
+          "price_score": 99.1,
+          "rating_score": 90.0,
+          "sales_score": 59.2,
+          "value_score": 73.2
+        }
+      },
+      {
+        "product_id": "05ded0d0",
+        "name": "荣耀 Pro超值手机 手机",
+        "platform": "拼多多",
+        "price": 1376.6,
+        "original_price": 1974.76,
+        "discount": "-30%",
+        "sales": 12153,
+        "store_name": "荣耀百亿补贴专区",
+        "store_rating": 4.0,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=bd428e50ae",
+        "tags": [
+          "限时秒杀",
+          "拼团价",
+          "万人团"
+        ],
+        "scores": {
+          "price_score": 95.1,
+          "rating_score": 80.0,
+          "sales_score": 2.5,
+          "value_score": 73.1
+        }
+      },
+      {
+        "product_id": "5c1ef643",
+        "name": "机械革命 S8正品手机 手机",
+        "platform": "拼多多",
+        "price": 2373.58,
+        "original_price": 2816.35,
+        "discount": "-16%",
+        "sales": 481153,
+        "store_name": "机械革命品牌授权店",
+        "store_rating": 4.7,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=b8f7745ed6",
+        "tags": [
+          "万人团",
+          "全网最低",
+          "百亿补贴"
+        ],
+        "scores": {
+          "price_score": 53.5,
+          "rating_score": 94.0,
+          "sales_score": 98.6,
+          "value_score": 72.9
+        }
+      },
+      {
+        "product_id": "60965f04",
+        "name": "魅族 15 5G全网通手机 手机",
+        "platform": "淘宝",
+        "price": 2286.25,
+        "original_price": 3052.78,
+        "discount": "-25%",
+        "sales": 259696,
+        "store_name": "魅族官方授权店",
+        "store_rating": 4.2,
+        "url": "https://item.taobao.com/item.htm?id=4df5322ecb66",
+        "tags": [
+          "品牌特卖"
+        ],
+        "scores": {
+          "price_score": 57.2,
+          "rating_score": 84.0,
+          "sales_score": 53.2,
+          "value_score": 72.7
+        }
+      },
+      {
+        "product_id": "dc4671f4",
+        "name": "惠普 Mate正品手机 手机",
+        "platform": "拼多多",
+        "price": 1453.5,
+        "original_price": 1758.45,
+        "discount": "-17%",
+        "sales": 42578,
+        "store_name": "惠普品牌授权店",
+        "store_rating": 4.5,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=d18d050a5d",
+        "tags": [
+          "拼团价"
+        ],
+        "scores": {
+          "price_score": 91.9,
+          "rating_score": 90.0,
+          "sales_score": 8.7,
+          "value_score": 72.2
+        }
+      },
+      {
+        "product_id": "8535a0a7",
+        "name": "一加 特惠版 5G手机 百亿补贴 手机",
+        "platform": "拼多多",
+        "price": 2812.44,
+        "original_price": 3320.14,
+        "discount": "-15%",
+        "sales": 454634,
+        "store_name": "一加品牌授权店",
+        "store_rating": 4.6,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=dda0a0213e",
+        "tags": [
+          "全网最低",
+          "正品险"
+        ],
+        "scores": {
+          "price_score": 35.2,
+          "rating_score": 92.0,
+          "sales_score": 93.2,
+          "value_score": 72.2
+        }
+      },
+      {
+        "product_id": "9dbb429f",
+        "name": "联想 15旗舰手机 手机",
+        "platform": "京东",
+        "price": 3084.81,
+        "original_price": 3901.63,
+        "discount": "-21%",
+        "sales": 38882,
+        "store_name": "联想品牌官方旗舰店",
+        "store_rating": 4.2,
+        "url": "https://item.jd.com/bc97ce1148.html",
+        "tags": [
+          "限时秒杀"
+        ],
+        "scores": {
+          "price_score": 23.9,
+          "rating_score": 84.0,
+          "sales_score": 8.0,
+          "value_score": 71.5
+        }
+      },
+      {
+        "product_id": "e351a138",
+        "name": "戴尔 Max 5G手机 百亿补贴 手机",
+        "platform": "拼多多",
+        "price": 2031.45,
+        "original_price": 2373.14,
+        "discount": "-14%",
+        "sales": 117573,
+        "store_name": "戴尔工厂直供店",
+        "store_rating": 4.5,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=6a976dad4f",
+        "tags": [
+          "万人团"
+        ],
+        "scores": {
+          "price_score": 67.8,
+          "rating_score": 90.0,
+          "sales_score": 24.1,
+          "value_score": 71.3
+        }
+      },
+      {
+        "product_id": "a5c32316",
+        "name": "宏碁 Mate拍照旗舰 手机",
+        "platform": "淘宝",
+        "price": 1985.38,
+        "original_price": 2353.61,
+        "discount": "-16%",
+        "sales": 58902,
+        "store_name": "宏碁品牌体验店",
+        "store_rating": 4.4,
+        "url": "https://item.taobao.com/item.htm?id=90d415ce6161",
+        "tags": [
+          "限时折扣"
+        ],
+        "scores": {
+          "price_score": 69.7,
+          "rating_score": 88.0,
+          "sales_score": 12.1,
+          "value_score": 71.1
+        }
+      },
+      {
+        "product_id": "cbfbca51",
+        "name": "微软 V3旗舰手机 手机",
+        "platform": "京东",
+        "price": 3249.45,
+        "original_price": 3483.74,
+        "discount": "-7%",
+        "sales": 158547,
+        "store_name": "微软京东家电旗舰店",
+        "store_rating": 4.7,
+        "url": "https://item.jd.com/3fa9e5a0f0.html",
+        "tags": [
+          "新品首发",
+          "满减优惠"
+        ],
+        "scores": {
+          "price_score": 17.0,
+          "rating_score": 94.0,
+          "sales_score": 32.5,
+          "value_score": 70.2
+        }
+      },
+      {
+        "product_id": "8d8999a0",
+        "name": "realme 尊享版正品手机 手机",
+        "platform": "拼多多",
+        "price": 1389.54,
+        "original_price": 1618.87,
+        "discount": "-14%",
+        "sales": 488066,
+        "store_name": "realme品牌特卖店",
+        "store_rating": 4.3,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=62dffcc011",
+        "tags": [
+          "拼团价"
+        ],
+        "scores": {
+          "price_score": 94.6,
+          "rating_score": 86.0,
+          "sales_score": 100.0,
+          "value_score": 70.0
+        }
+      },
+      {
+        "product_id": "136686d5",
+        "name": "微星 S8超长续航 手机",
+        "platform": "淘宝",
+        "price": 2451.93,
+        "original_price": null,
+        "discount": null,
+        "sales": 189367,
+        "store_name": "微星品牌直营店",
+        "store_rating": 4.9,
+        "url": "https://item.taobao.com/item.htm?id=6cbbfc3f9c54",
+        "tags": [
+          "新品上市",
+          "跨店满减"
+        ],
+        "scores": {
+          "price_score": 50.3,
+          "rating_score": 98.0,
+          "sales_score": 38.8,
+          "value_score": 69.4
+        }
+      },
+      {
+        "product_id": "3393dc53",
+        "name": "机械革命 Plus拍照旗舰 手机",
+        "platform": "淘宝",
+        "price": 2345.63,
+        "original_price": null,
+        "discount": null,
+        "sales": 295165,
+        "store_name": "机械革命品牌旗舰店",
+        "store_rating": 4.8,
+        "url": "https://item.taobao.com/item.htm?id=acaeeb4d2490",
+        "tags": [
+          "限时折扣",
+          "天猫好物"
+        ],
+        "scores": {
+          "price_score": 54.7,
+          "rating_score": 96.0,
+          "sales_score": 60.5,
+          "value_score": 68.8
+        }
+      },
+      {
+        "product_id": "2f419d67",
+        "name": "机械革命 尊享版超值手机 手机",
+        "platform": "拼多多",
+        "price": 2710.53,
+        "original_price": 3176.37,
+        "discount": "-15%",
+        "sales": 386364,
+        "store_name": "机械革命官方旗舰店",
+        "store_rating": 4.0,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=c91135eea9",
+        "tags": [
+          "拼团价"
+        ],
+        "scores": {
+          "price_score": 39.5,
+          "rating_score": 80.0,
+          "sales_score": 79.2,
+          "value_score": 68.4
+        }
+      },
+      {
+        "product_id": "7b94e02f",
+        "name": "宏碁 百亿补贴版正品手机 手机",
+        "platform": "拼多多",
+        "price": 2863.46,
+        "original_price": null,
+        "discount": null,
+        "sales": 186406,
+        "store_name": "宏碁品牌官方旗舰店",
+        "store_rating": 4.7,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=fbb4d0bbbf",
+        "tags": [
+          "万人团",
+          "假一赔十"
+        ],
+        "scores": {
+          "price_score": 33.1,
+          "rating_score": 94.0,
+          "sales_score": 38.2,
+          "value_score": 68.2
+        }
+      },
+      {
+        "product_id": "3f4c9dc6",
+        "name": "小米 青春版 5G手机 百亿补贴 手机",
+        "platform": "拼多多",
+        "price": 1499.55,
+        "original_price": null,
+        "discount": null,
+        "sales": 111040,
+        "store_name": "小米工厂直供店",
+        "store_rating": 4.6,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=750eaeac67",
+        "tags": [
+          "品牌特卖",
+          "限时秒杀"
+        ],
+        "scores": {
+          "price_score": 90.0,
+          "rating_score": 92.0,
+          "sales_score": 22.8,
+          "value_score": 67.6
+        }
+      },
+      {
+        "product_id": "5d02b765",
+        "name": "荣耀 Air超长续航 手机",
+        "platform": "淘宝",
+        "price": 2424.11,
+        "original_price": null,
+        "discount": null,
+        "sales": 243485,
+        "store_name": "荣耀品牌专卖店",
+        "store_rating": 4.6,
+        "url": "https://item.taobao.com/item.htm?id=2c139589971d",
+        "tags": [
+          "限时折扣",
+          "88VIP价"
+        ],
+        "scores": {
+          "price_score": 51.4,
+          "rating_score": 92.0,
+          "sales_score": 49.9,
+          "value_score": 67.6
+        }
+      },
+      {
+        "product_id": "202aecd7",
+        "name": "惠普 Reno旗舰手机 手机",
+        "platform": "京东",
+        "price": 3200.42,
+        "original_price": 3373.03,
+        "discount": "-5%",
+        "sales": 146091,
+        "store_name": "惠普京东国际自营店",
+        "store_rating": 4.3,
+        "url": "https://item.jd.com/2081b51d05.html",
+        "tags": [
+          "新品首发"
+        ],
+        "scores": {
+          "price_score": 19.1,
+          "rating_score": 86.0,
+          "sales_score": 29.9,
+          "value_score": 67.3
+        }
+      },
+      {
+        "product_id": "e55e1599",
+        "name": "魅族 SE超长续航 手机",
+        "platform": "淘宝",
+        "price": 2622.58,
+        "original_price": null,
+        "discount": null,
+        "sales": 59948,
+        "store_name": "魅族天猫旗舰店",
+        "store_rating": 4.5,
+        "url": "https://item.taobao.com/item.htm?id=fed496255893",
+        "tags": [
+          "新品上市",
+          "天猫好物"
+        ],
+        "scores": {
+          "price_score": 43.2,
+          "rating_score": 90.0,
+          "sales_score": 12.3,
+          "value_score": 67.0
+        }
+      },
+      {
+        "product_id": "93f8c79d",
+        "name": "神舟 Book 5G全网通手机 手机",
+        "platform": "淘宝",
+        "price": 2262.61,
+        "original_price": null,
+        "discount": null,
+        "sales": 286445,
+        "store_name": "神舟官方授权店",
+        "store_rating": 4.3,
+        "url": "https://item.taobao.com/item.htm?id=aabd005bd485",
+        "tags": [
+          "热销爆款"
+        ],
+        "scores": {
+          "price_score": 58.2,
+          "rating_score": 86.0,
+          "sales_score": 58.7,
+          "value_score": 65.8
+        }
+      },
+      {
+        "product_id": "3b496c60",
+        "name": "ThinkPad Z7 5G智能手机 手机",
+        "platform": "京东",
+        "price": 2732.62,
+        "original_price": null,
+        "discount": null,
+        "sales": 26483,
+        "store_name": "ThinkPad京东超市自营店",
+        "store_rating": 4.3,
+        "url": "https://item.jd.com/d456bd28fd.html",
+        "tags": [
+          "爆款",
+          "品牌直供",
+          "满减优惠"
+        ],
+        "scores": {
+          "price_score": 38.6,
+          "rating_score": 86.0,
+          "sales_score": 5.4,
+          "value_score": 65.8
+        }
+      },
+      {
+        "product_id": "03a97e6b",
+        "name": "小米 Galaxy超长续航 手机",
+        "platform": "淘宝",
+        "price": 2269.61,
+        "original_price": null,
+        "discount": null,
+        "sales": 62745,
+        "store_name": "小米品牌体验店",
+        "store_rating": 4.2,
+        "url": "https://item.taobao.com/item.htm?id=3db228f3df5c",
+        "tags": [
+          "跨店满减",
+          "聚划算"
+        ],
+        "scores": {
+          "price_score": 57.9,
+          "rating_score": 84.0,
+          "sales_score": 12.9,
+          "value_score": 65.2
+        }
+      },
+      {
+        "product_id": "c1f40799",
+        "name": "华为 S8拍照旗舰 手机",
+        "platform": "淘宝",
+        "price": 3115.67,
+        "original_price": null,
+        "discount": null,
+        "sales": 141906,
+        "store_name": "华为品牌旗舰店",
+        "store_rating": 4.2,
+        "url": "https://item.taobao.com/item.htm?id=c1aea4d36603",
+        "tags": [
+          "限时折扣",
+          "天猫好物"
+        ],
+        "scores": {
+          "price_score": 22.6,
+          "rating_score": 84.0,
+          "sales_score": 29.1,
+          "value_score": 65.2
+        }
+      },
+      {
+        "product_id": "925e0b15",
+        "name": "vivo V3 5G全网通手机 手机",
+        "platform": "淘宝",
+        "price": 3261.27,
+        "original_price": null,
+        "discount": null,
+        "sales": 5948,
+        "store_name": "vivo品牌体验店",
+        "store_rating": 4.4,
+        "url": "https://item.taobao.com/item.htm?id=82dfc4700d58",
+        "tags": [
+          "限时折扣",
+          "新品上市",
+          "跨店满减"
+        ],
+        "scores": {
+          "price_score": 16.5,
+          "rating_score": 88.0,
+          "sales_score": 1.2,
+          "value_score": 50.2
+        }
+      }
+    ],
+    "recommendations": {
+      "best_value": {
+        "name": "宏碁 Ultra正品手机 手机",
+        "price": 1856.04,
+        "sales": 242182,
+        "store_name": "宏碁官方直营店",
+        "store_rating": 4.7,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=644421443d",
+        "platform": "拼多多",
+        "keyword": "手机",
+        "product_id": "fadf494b",
+        "image_url": "",
+        "original_price": 2887.27,
+        "discount": "-36%",
+        "tags": [
+          "拼团价",
+          "百亿补贴",
+          "限时秒杀"
+        ],
+        "collected_at": "2026-05-21 14:48:44",
+        "value_score": 0.789,
+        "price_per_sale": 1856.04
+      },
+      "lowest_price": {
+        "name": "宏碁 特惠版超值手机 手机",
+        "price": 1259.34,
+        "sales": 219488,
+        "store_name": "宏碁品牌特卖店",
+        "store_rating": 4.9,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=ed2d8bc809",
+        "platform": "拼多多",
+        "keyword": "手机",
+        "product_id": "6d9c7121",
+        "image_url": "",
+        "original_price": 1830.99,
+        "discount": "-31%",
+        "tags": [
+          "假一赔十",
+          "百亿补贴"
+        ],
+        "collected_at": "2026-05-21 14:48:44",
+        "value_score": 0.788,
+        "price_per_sale": 1259.34
+      },
+      "highest_sales": {
+        "name": "realme 尊享版正品手机 手机",
+        "price": 1389.54,
+        "sales": 488066,
+        "store_name": "realme品牌特卖店",
+        "store_rating": 4.3,
+        "url": "https://mobile.yangkeduo.com/goods.html?goods_id=62dffcc011",
+        "platform": "拼多多",
+        "keyword": "手机",
+        "product_id": "8d8999a0",
+        "image_url": "",
+        "original_price": 1618.87,
+        "discount": "-14%",
+        "tags": [
+          "拼团价"
+        ],
+        "collected_at": "2026-05-21 14:48:44",
+        "value_score": 0.7,
+        "price_per_sale": 1389.54
+      },
+      "best_rating": {
+        "name": "微软 T9 5G智能手机 手机",
+        "price": 2500.02,
+        "sales": 89640,
+        "store_name": "微软京东自营旗舰店",
+        "store_rating": 5.0,
+        "url": "https://item.jd.com/010d19b2e8.html",
+        "platform": "京东",
+        "keyword": "手机",
+        "product_id": "b3131d8b",
+        "image_url": "",
+        "original_price": 2882.38,
+        "discount": "-13%",
+        "tags": [
+          "京东自营",
+          "新品首发",
+          "PLUS会员价"
+        ],
+        "collected_at": "2026-05-21 14:48:44",
+        "value_score": 0.74,
+        "price_per_sale": 2500.02
+      },
+      "top3_value": [
+        {
+          "name": "宏碁 Ultra正品手机 手机",
+          "price": 1856.04,
+          "sales": 242182,
+          "store_name": "宏碁官方直营店",
+          "store_rating": 4.7,
+          "url": "https://mobile.yangkeduo.com/goods.html?goods_id=644421443d",
+          "platform": "拼多多",
+          "keyword": "手机",
+          "product_id": "fadf494b",
+          "image_url": "",
+          "original_price": 2887.27,
+          "discount": "-36%",
+          "tags": [
+            "拼团价",
+            "百亿补贴",
+            "限时秒杀"
+          ],
+          "collected_at": "2026-05-21 14:48:44",
+          "value_score": 0.789,
+          "price_per_sale": 1856.04
+        },
+        {
+          "name": "宏碁 特惠版超值手机 手机",
+          "price": 1259.34,
+          "sales": 219488,
+          "store_name": "宏碁品牌特卖店",
+          "store_rating": 4.9,
+          "url": "https://mobile.yangkeduo.com/goods.html?goods_id=ed2d8bc809",
+          "platform": "拼多多",
+          "keyword": "手机",
+          "product_id": "6d9c7121",
+          "image_url": "",
+          "original_price": 1830.99,
+          "discount": "-31%",
+          "tags": [
+            "假一赔十",
+            "百亿补贴"
+          ],
+          "collected_at": "2026-05-21 14:48:44",
+          "value_score": 0.788,
+          "price_per_sale": 1259.34
+        },
+        {
+          "name": "华为 Mate超长续航 手机",
+          "price": 1856.18,
+          "sales": 248547,
+          "store_name": "华为天猫直营店",
+          "store_rating": 4.9,
+          "url": "https://item.taobao.com/item.htm?id=f96c20de5902",
+          "platform": "淘宝",
+          "keyword": "手机",
+          "product_id": "70a3c80d",
+          "image_url": "",
+          "original_price": 2513.29,
+          "discount": "-26%",
+          "tags": [
+            "88VIP价",
+            "限时折扣"
+          ],
+          "collected_at": "2026-05-21 14:48:44",
+          "value_score": 0.772,
+          "price_per_sale": 1856.18
+        }
+      ]
+    },
+    "price_analysis": {
+      "min": 1259.34,
+      "q1": 1985.38,
+      "median": 2500.02,
+      "q3": 3084.81,
+      "max": 3657.81,
+      "buckets": {
+        "1259-1739": 6,
+        "1739-2219": 6,
+        "2219-2698": 12,
+        "2698-3178": 8,
+        "3178-3658": 8
+      }
+    },
+    "platform_comparison": {
+      "拼多多": {
+        "count": 15,
+        "avg_price": 1973.8,
+        "min_price": 1259.34,
+        "max_price": 2863.46,
+        "avg_sales": 252453,
+        "avg_rating": 4.5
+      },
+      "淘宝": {
+        "count": 14,
+        "avg_price": 2504.52,
+        "min_price": 1856.18,
+        "max_price": 3261.27,
+        "avg_sales": 144712,
+        "avg_rating": 4.5
+      },
+      "京东": {
+        "count": 11,
+        "avg_price": 3150.28,
+        "min_price": 2474.32,
+        "max_price": 3657.81,
+        "avg_sales": 101237,
+        "avg_rating": 4.6
+      }
+    }
+  },
+  "chart_data": {
+    "price_bar": {
+      "labels": [
+        "宏碁 特惠版超值手机 手机",
+        "雷神 Plus正品手机 手机",
+        "荣耀 Pro超值手机 手机",
+        "realme 尊享版正品手机 ...",
+        "惠普 Mate正品手机 手机",
+        "小米 青春版 5G手机 百亿补...",
+        "宏碁 Ultra正品手机 手机",
+        "华为 Mate超长续航 手机",
+        "vivo Pro超值手机 手机",
+        "机械革命 X1 5G手机 百亿...",
+        "宏碁 Mate拍照旗舰 手机",
+        "戴尔 Max 5G手机 百亿补...",
+        "神舟 Book 5G全网通手机...",
+        "小米 Galaxy超长续航 手...",
+        "魅族 15 5G全网通手机 手...",
+        "机械革命 Plus拍照旗舰 手...",
+        "机械革命 S8正品手机 手机",
+        "荣耀 Air超长续航 手机",
+        "微星 S8超长续航 手机",
+        "外星人 Ultra 5G智能手..."
+      ],
+      "prices": [
+        1259.34,
+        1281.66,
+        1376.6,
+        1389.54,
+        1453.5,
+        1499.55,
+        1856.04,
+        1856.18,
+        1952.1,
+        1956.2,
+        1985.38,
+        2031.45,
+        2262.61,
+        2269.61,
+        2286.25,
+        2345.63,
+        2373.58,
+        2424.11,
+        2451.93,
+        2474.32
+      ],
+      "original_prices": [
+        1830.99,
+        1618.72,
+        1974.76,
+        1618.87,
+        1758.45,
+        null,
+        2887.27,
+        2513.29,
+        2786.95,
+        2348.81,
+        2353.61,
+        2373.14,
+        null,
+        null,
+        3052.78,
+        null,
+        2816.35,
+        null,
+        null,
+        3395.88
+      ],
+      "platforms": [
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "淘宝",
+        "拼多多",
+        "拼多多",
+        "淘宝",
+        "拼多多",
+        "淘宝",
+        "淘宝",
+        "淘宝",
+        "淘宝",
+        "拼多多",
+        "淘宝",
+        "淘宝",
+        "京东"
+      ],
+      "colors": [
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#FF6A00",
+        "#E02E24",
+        "#E02E24",
+        "#FF6A00",
+        "#E02E24",
+        "#FF6A00",
+        "#FF6A00",
+        "#FF6A00",
+        "#FF6A00",
+        "#E02E24",
+        "#FF6A00",
+        "#FF6A00",
+        "#E4393C"
+      ]
+    },
+    "platform_comparison": {
+      "labels": [
+        "拼多多",
+        "淘宝",
+        "京东"
+      ],
+      "avg_prices": [
+        1973.8,
+        2504.52,
+        3150.28
+      ],
+      "min_prices": [
+        1259.34,
+        1856.18,
+        2474.32
+      ],
+      "avg_ratings": [
+        4.5,
+        4.5,
+        4.6
+      ],
+      "colors": [
+        "#E02E24",
+        "#FF6A00",
+        "#E4393C"
+      ]
+    },
+    "price_distribution": {
+      "labels": [
+        "1259-1739",
+        "1739-2219",
+        "2219-2698",
+        "2698-3178",
+        "3178-3658"
+      ],
+      "counts": [
+        6,
+        6,
+        12,
+        8,
+        8
+      ],
+      "stats": {
+        "min": 1259.34,
+        "q1": 1985.38,
+        "median": 2500.02,
+        "q3": 3084.81,
+        "max": 3657.81
+      }
+    },
+    "value_scatter": {
+      "拼多多": {
+        "points": [
+          {
+            "x": 1259.34,
+            "y": 0.788,
+            "r": 10.9744
+          },
+          {
+            "x": 1281.66,
+            "y": 0.732,
+            "r": 14.44895
+          },
+          {
+            "x": 1376.6,
+            "y": 0.731,
+            "r": 4
+          },
+          {
+            "x": 1389.54,
+            "y": 0.7,
+            "r": 15
+          },
+          {
+            "x": 1453.5,
+            "y": 0.722,
+            "r": 4
+          },
+          {
+            "x": 1499.55,
+            "y": 0.676,
+            "r": 5.552
+          },
+          {
+            "x": 1856.04,
+            "y": 0.789,
+            "r": 12.1091
+          },
+          {
+            "x": 1952.1,
+            "y": 0.754,
+            "r": 4
+          },
+          {
+            "x": 1956.2,
+            "y": 0.738,
+            "r": 15
+          },
+          {
+            "x": 2031.45,
+            "y": 0.713,
+            "r": 5.87865
+          },
+          {
+            "x": 2373.58,
+            "y": 0.729,
+            "r": 15
+          },
+          {
+            "x": 2710.53,
+            "y": 0.684,
+            "r": 15
+          },
+          {
+            "x": 2791.06,
+            "y": 0.74,
+            "r": 15
+          },
+          {
+            "x": 2812.44,
+            "y": 0.722,
+            "r": 15
+          },
+          {
+            "x": 2863.46,
+            "y": 0.682,
+            "r": 9.3203
+          }
+        ],
+        "names": [
+          "宏碁 特惠版超值手机 手机",
+          "雷神 Plus正品手机 手机",
+          "荣耀 Pro超值手机 手机",
+          "realme 尊享版正品手机 手机",
+          "惠普 Mate正品手机 手机",
+          "小米 青春版 5G手机 百亿补贴 手机",
+          "宏碁 Ultra正品手机 手机",
+          "vivo Pro超值手机 手机",
+          "机械革命 X1 5G手机 百亿补贴 手机",
+          "戴尔 Max 5G手机 百亿补贴 手机",
+          "机械革命 S8正品手机 手机",
+          "机械革命 尊享版超值手机 手机",
+          "OPPO Mate超值手机 手机",
+          "一加 特惠版 5G手机 百亿补贴 手机",
+          "宏碁 百亿补贴版正品手机 手机"
+        ],
+        "color": "#E02E24"
+      },
+      "淘宝": {
+        "points": [
+          {
+            "x": 1856.18,
+            "y": 0.772,
+            "r": 12.42735
+          },
+          {
+            "x": 1985.38,
+            "y": 0.711,
+            "r": 4
+          },
+          {
+            "x": 2262.61,
+            "y": 0.658,
+            "r": 14.32225
+          },
+          {
+            "x": 2269.61,
+            "y": 0.652,
+            "r": 4
+          },
+          {
+            "x": 2286.25,
+            "y": 0.727,
+            "r": 12.9848
+          },
+          {
+            "x": 2345.63,
+            "y": 0.688,
+            "r": 14.75825
+          },
+          {
+            "x": 2424.11,
+            "y": 0.676,
+            "r": 12.17425
+          },
+          {
+            "x": 2451.93,
+            "y": 0.694,
+            "r": 9.46835
+          },
+          {
+            "x": 2561.3,
+            "y": 0.737,
+            "r": 5.77915
+          },
+          {
+            "x": 2622.58,
+            "y": 0.67,
+            "r": 4
+          },
+          {
+            "x": 2679.42,
+            "y": 0.746,
+            "r": 4
+          },
+          {
+            "x": 2941.37,
+            "y": 0.746,
+            "r": 4
+          },
+          {
+            "x": 3115.67,
+            "y": 0.652,
+            "r": 7.0953
+          },
+          {
+            "x": 3261.27,
+            "y": 0.502,
+            "r": 4
+          }
+        ],
+        "names": [
+          "华为 Mate超长续航 手机",
+          "宏碁 Mate拍照旗舰 手机",
+          "神舟 Book 5G全网通手机 手机",
+          "小米 Galaxy超长续航 手机",
+          "魅族 15 5G全网通手机 手机",
+          "机械革命 Plus拍照旗舰 手机",
+          "荣耀 Air超长续航 手机",
+          "微星 S8超长续航 手机",
+          "华为 Nova拍照旗舰 手机",
+          "魅族 SE超长续航 手机",
+          "荣耀 Nova 5G全网通手机 手机",
+          "戴尔 Reno拍照旗舰 手机",
+          "华为 S8拍照旗舰 手机",
+          "vivo V3 5G全网通手机 手机"
+        ],
+        "color": "#FF6A00"
+      },
+      "京东": {
+        "points": [
+          {
+            "x": 2474.32,
+            "y": 0.739,
+            "r": 6.46845
+          },
+          {
+            "x": 2500.02,
+            "y": 0.74,
+            "r": 4.482
+          },
+          {
+            "x": 2732.62,
+            "y": 0.658,
+            "r": 4
+          },
+          {
+            "x": 3084.81,
+            "y": 0.715,
+            "r": 4
+          },
+          {
+            "x": 3200.42,
+            "y": 0.673,
+            "r": 7.30455
+          },
+          {
+            "x": 3233.61,
+            "y": 0.76,
+            "r": 9.80805
+          },
+          {
+            "x": 3249.45,
+            "y": 0.702,
+            "r": 7.92735
+          },
+          {
+            "x": 3314.19,
+            "y": 0.764,
+            "r": 4
+          },
+          {
+            "x": 3594.13,
+            "y": 0.748,
+            "r": 4.116
+          },
+          {
+            "x": 3611.72,
+            "y": 0.733,
+            "r": 7.57195
+          },
+          {
+            "x": 3657.81,
+            "y": 0.76,
+            "r": 4
+          }
+        ],
+        "names": [
+          "外星人 Ultra 5G智能手机 手机",
+          "微软 T9 5G智能手机 手机",
+          "ThinkPad Z7 5G智能手机 手",
+          "联想 15旗舰手机 手机",
+          "惠普 Reno旗舰手机 手机",
+          "联想 V3超清拍照手机 手机",
+          "微软 V3旗舰手机 手机",
+          "机械革命 16旗舰手机 手机",
+          "联想 SE超清拍照手机 手机",
+          "OPPO Mate 5G智能手机 手机",
+          "雷神 16 5G智能手机 手机"
+        ],
+        "color": "#E4393C"
+      }
+    },
+    "sales_ranking": {
+      "labels": [
+        "realme 尊享版正品手机 ...",
+        "机械革命 S8正品手机 手机",
+        "一加 特惠版 5G手机 百亿补...",
+        "机械革命 X1 5G手机 百亿...",
+        "机械革命 尊享版超值手机 手机",
+        "OPPO Mate超值手机 手...",
+        "机械革命 Plus拍照旗舰 手...",
+        "雷神 Plus正品手机 手机",
+        "神舟 Book 5G全网通手机...",
+        "魅族 15 5G全网通手机 手..."
+      ],
+      "sales": [
+        488066,
+        481153,
+        454634,
+        429903,
+        386364,
+        306383,
+        295165,
+        288979,
+        286445,
+        259696
+      ],
+      "platforms": [
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "拼多多",
+        "淘宝",
+        "拼多多",
+        "淘宝",
+        "淘宝"
+      ],
+      "colors": [
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#E02E24",
+        "#FF6A00",
+        "#E02E24",
+        "#FF6A00",
+        "#FF6A00"
+      ]
+    },
+    "price_trend": {
+      "拼多多": {
+        "dates": [
+          "04-21",
+          "04-22",
+          "04-23",
+          "04-24",
+          "04-25",
+          "04-26",
+          "04-27",
+          "04-28",
+          "04-29",
+          "04-30",
+          "05-01",
+          "05-02",
+          "05-03",
+          "05-04",
+          "05-05",
+          "05-06",
+          "05-07",
+          "05-08",
+          "05-09",
+          "05-10",
+          "05-11",
+          "05-12",
+          "05-13",
+          "05-14",
+          "05-15",
+          "05-16",
+          "05-17",
+          "05-18",
+          "05-19",
+          "05-20"
+        ],
+        "prices": [
+          1879.75,
+          1924.95,
+          2034.8,
+          1998.05,
+          1930.89,
+          1903.72,
+          1943.36,
+          1821.79,
+          1872.07,
+          2058.07,
+          2082.99,
+          1816.74,
+          2067.33,
+          2018.41,
+          2039.66,
+          2025.98,
+          2113.32,
+          2114.02,
+          1939.24,
+          1971.72,
+          1956.64,
+          1922.02,
+          1960.84,
+          2067.92,
+          1873.64,
+          2100.77,
+          2092.87,
+          1817.25,
+          1842.41,
+          1866.89
+        ],
+        "color": "#E02E24"
+      },
+      "淘宝": {
+        "dates": [
+          "04-21",
+          "04-22",
+          "04-23",
+          "04-24",
+          "04-25",
+          "04-26",
+          "04-27",
+          "04-28",
+          "04-29",
+          "04-30",
+          "05-01",
+          "05-02",
+          "05-03",
+          "05-04",
+          "05-05",
+          "05-06",
+          "05-07",
+          "05-08",
+          "05-09",
+          "05-10",
+          "05-11",
+          "05-12",
+          "05-13",
+          "05-14",
+          "05-15",
+          "05-16",
+          "05-17",
+          "05-18",
+          "05-19",
+          "05-20"
+        ],
+        "prices": [
+          2689.74,
+          2340.34,
+          2659.08,
+          2609.9,
+          2657.91,
+          2636.15,
+          2649.96,
+          2493.09,
+          2620.06,
+          2344.28,
+          2326.08,
+          2403.62,
+          2523.2,
+          2606.28,
+          2335.52,
+          2528.86,
+          2654.73,
+          2307.93,
+          2548.58,
+          2591.88,
+          2574.75,
+          2628.02,
+          2591.73,
+          2641.05,
+          2325.46,
+          2504.74,
+          2589.52,
+          2502.38,
+          2570.87,
+          2386.67
+        ],
+        "color": "#FF6A00"
+      },
+      "京东": {
+        "dates": [
+          "04-21",
+          "04-22",
+          "04-23",
+          "04-24",
+          "04-25",
+          "04-26",
+          "04-27",
+          "04-28",
+          "04-29",
+          "04-30",
+          "05-01",
+          "05-02",
+          "05-03",
+          "05-04",
+          "05-05",
+          "05-06",
+          "05-07",
+          "05-08",
+          "05-09",
+          "05-10",
+          "05-11",
+          "05-12",
+          "05-13",
+          "05-14",
+          "05-15",
+          "05-16",
+          "05-17",
+          "05-18",
+          "05-19",
+          "05-20"
+        ],
+        "prices": [
+          2970.74,
+          3177.39,
+          2934.03,
+          3166.18,
+          3235.36,
+          2910.57,
+          2902.39,
+          3200.84,
+          2961.2,
+          2956.95,
+          3239.97,
+          3120.07,
+          3339.79,
+          3255.65,
+          3177.18,
+          3227.04,
+          2984.92,
+          3250.29,
+          3154.41,
+          2980.64,
+          2903.81,
+          3130.96,
+          3043.08,
+          3332.57,
+          3285.55,
+          3025.41,
+          3397.77,
+          3327.67,
+          2922.55,
+          3136.66
+        ],
+        "color": "#E4393C"
+      }
+    }
+  },
+  "statistics": {
+    "total": 40,
+    "price_min": 1259.34,
+    "price_max": 3657.81,
+    "price_avg": 2483.09,
+    "price_median": 2500.02,
+    "sales_total": 6926369,
+    "sales_avg": 173159,
+    "rating_avg": 4.5,
+    "platforms": {
+      "拼多多": 15,
+      "淘宝": 14,
+      "京东": 11
+    }
+  }
+}
